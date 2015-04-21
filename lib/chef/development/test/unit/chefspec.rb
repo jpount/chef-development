@@ -1,0 +1,5 @@
+require 'chefspec'
+require 'chefspec/berkshelf'
+require 'chef/development/test/unit/chefspec/helpers'
+require 'chef/development/test/unit/chefspec/matchers'
+require 'rspec/its'
